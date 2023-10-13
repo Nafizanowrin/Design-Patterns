@@ -1,3 +1,5 @@
+//Task7-ObjectCreation(Interface passed as parameters in constructor)
+
 interface Shape 
 {
    void draw();
@@ -36,3 +38,7 @@ public class ObjectCreation
       testShape.draw();
    }
 }
+
+
+//output
+//Circle::draw()
